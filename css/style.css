@@ -19,7 +19,7 @@
 
 .google-maps {
         position: relative;
-        padding-bottom: 100%; // Tutaj regulujemy wysokość
+        padding-bottom: 60%; // Tutaj regulujemy wysokość
         height: 0;
         overflow: hidden;
     }
