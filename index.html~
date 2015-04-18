@@ -101,7 +101,8 @@
 					<p><i class="icon icon-laptop"></i></p>
 					<h2 class="font-thin">STRONA <span class="font-semibold">NIE</span></h2>
 					<h4 class="font-thin">Dalej szukam</h4>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d18709.283146404534!2d18.19119838887605!3d54.1152230402456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spl!2spl!4v1429357897030" width="600" height="450" frameborder="0" style="border:0"></iframe>
+					<div class="google-maps">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d18709.283146404534!2d18.19119838887605!3d54.1152230402456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spl!2spl!4v1429357897030" width="600" height="450" frameborder="0" style="border:0"></iframe></div>
 				</div><!-- /col12 -->
 				<div class="col-12 col-lg-3 col-sm-6">
 					<p><i class="icon icon-tablet"></i></p>
