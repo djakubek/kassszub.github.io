@@ -17,13 +17,13 @@
 	font-weight: 600;
 }
 
-    .google-maps {
+.google-maps {
         position: relative;
-        padding-bottom: 75%; // Tutaj regulujemy wysokość
+        padding-bottom: 100%; // Tutaj regulujemy wysokość
         height: 0;
         overflow: hidden;
     }
-    .google-maps iframe {
+.google-maps iframe {
         position: absolute;
         top: 0;
         left: 0;
