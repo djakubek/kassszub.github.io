@@ -187,8 +187,15 @@
 			</div><!-- /row -->
 			
 			<div class="row content-row">
-				<div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74783.45973871005!2d18.196747066917062!3d54.14494667009059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd80c614934995%3A0x77b46b0041d63437!2sNowa+Karczma%2C+Polska!5e0!3m2!1spl!2spl!4v1429359868244" width="1200" height="600" frameborder="0" style="border:0"></iframe>
+				<div class="google-maps"><script>
+                        // create a map in the "map" div, set the view to a given place and zoom 54.359931, 18.270445
+                        var map = L.map('map').setView([54.133169, 18.202390], 16);
+                        // add an OpenStreetMap tile layer
+                        L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+                        // add a marker in the given location, attach some popup content to it and open the popup
+                        L.marker([54.133169, 18.202390]).addTo(map).bindPopup('Tu mieszkam').openPopup();
+                       </script>
+    
 </div>
 				
 				</div><!-- /row -->
