@@ -118,6 +118,20 @@
 	</div><!-- /slide2 -->
 
 	<!-- === SLide 3 - Portfolio -->
+	<div class="slide story" id="slide-4" data-slide="4">
+		<div class="container">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	 <responsive-embed ratio="16:9">
+	 	<iframe width="854" height="510" src="https://www.youtube.com/embed/695PN9xaEhs" frameborder="0" allowfullscreen></iframe>
+	 </responsive-embed> 
+ 	 </div>
+	
+
+
+
+
+
+
 	<div class="slide story" id="slide-3" data-slide="3">
 
 		<div class="container">
