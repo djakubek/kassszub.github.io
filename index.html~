@@ -120,7 +120,7 @@
 	<!-- === SLide 3 - Portfolio -->
 	<div class="slide story" id="slide-4" data-slide="4">
 		<div class="container">
-			<div class="col-12">
+			<div class="col-12 google-maps">
 	 <responsive-embed ratio="16:9">
 	 	<iframe width="854" height="510" src="https://www.youtube.com/embed/m3VsT6nQgx4" frameborder="0" allowfullscreen></iframe>
 	 </responsive-embed> 
